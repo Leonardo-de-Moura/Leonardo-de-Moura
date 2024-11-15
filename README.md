@@ -4,11 +4,13 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando o curso técnico em informática no IFCE.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 💼 Trabalhando em projetos avulsos.
+- 🌱 Aprendendo mais sobre desnvolvimento Front-end.
 
 ## Minhas Skills
 
+**sistema**
+![[Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
 **Aplicações e dados**
 
 
