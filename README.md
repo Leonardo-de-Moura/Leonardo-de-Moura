@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando o curso técnico em informática no IFCE.
+- 🎓 Estudando no curso técnico em informática no IFCE.
 - 💼 Trabalhando em projetos avulsos.
-- 🌱 Aprendendo mais sobre desnvolvimento Front-end.
+- 🌱 Aprendendo mais sobre desenvolvimento Front-end.
 
 ## Minhas Skills
 
