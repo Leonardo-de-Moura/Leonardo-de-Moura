@@ -1,7 +1,7 @@
 
 
 ## Sobre mim
-
+ 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando no curso técnico em informática no IFCE.
 - 💼 Trabalhando em projetos avulsos.
