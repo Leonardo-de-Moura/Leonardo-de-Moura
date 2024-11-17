@@ -36,9 +36,9 @@
 
 <br/>
 
-<a href="https://github.com/Leonardo-de-Moura" title="Perfil do Leonardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-de-Moura&theme=dracula&show_icons=true" />
-</a>
+[![card](https://github-readme-stats.vercel.app/api?username=Leonardo-de-Moura&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-de-Moura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
 
