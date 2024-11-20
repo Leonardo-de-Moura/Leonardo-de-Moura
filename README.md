@@ -47,5 +47,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Leonardo-Moura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo---de--moura/)](https://www.linkedin.com/in/leonardo---de--moura/)
+[![Linkedin](https://img.shields.io/badge/-LeonardoMoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo---de--moura/)](https://www.linkedin.com/in/leonardo---de--moura/)
 
