@@ -1,14 +1,12 @@
+# About Me
 
+Hi there! 👋
 
-## Sobre mim
- 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 cursando o segundo semestre do técnico em informática no IFCE.
-- 🌱 Aprendendo mais sobre desenvolvimento Front-end.
+I am a **Backend Developer** with a strong passion for building scalable and efficient systems. Currently, I am pursuing a **Technical Course in Computer Science** to enhance my skills and knowledge in the field.
 
-## Minhas Skills
+## My Skills
 
-**Sistema**
+**OS**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -16,7 +14,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Aplicações e dados**
+**Aplication and data**
 
 ![](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=whitewidth=""20px)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +36,7 @@
 
 
 
-**Ferramentas de desenvolvimento**
+**Dev Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-100000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -51,7 +49,7 @@
 
 [![Leonardo-de-Moura](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-de-Moura&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Onde me encontrar
+## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-LeonardoMoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo---de--moura/)](https://www.linkedin.com/in/leonardo---de--moura/)
 
