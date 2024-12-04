@@ -49,7 +49,7 @@ I am a **Backend Developer** with a strong passion for building scalable and eff
 
 [![Leonardo-de-Moura](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-de-Moura&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Where to find me
+#### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-LeonardoMoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo---de--moura/)](https://www.linkedin.com/in/leonardo---de--moura/)
 
