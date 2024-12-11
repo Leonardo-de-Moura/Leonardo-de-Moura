@@ -45,6 +45,9 @@ I am a **Developer** with a strong passion for building scalable and efficient s
 <br/>
 
 [![card](https://github-readme-stats.vercel.app/api?username=Leonardo-de-Moura&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+![Most Used Languages](https://img.shields.io/badge/dynamic/json?label=Most%20Used%20Languages&color=purple&query=%24.languages%5B0%5D.language&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Flanguages%2Fcard%3Fusername%3DLeonardo-de-Moura%26theme%3Ddracula)
+
 
 
 #### Where to find me
