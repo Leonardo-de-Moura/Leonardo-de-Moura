@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-I am a **Developer** with a strong passion for building scalable and efficient systems. Currently, I am pursuing a **Technical Course in Computer Science** to enhance my skills and knowledge in the field.
+I am a **Developer** with a strong passion for building scalable and efficient systems.
 
 ## My Skills
 
