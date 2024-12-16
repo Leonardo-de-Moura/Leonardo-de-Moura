@@ -49,7 +49,4 @@ I am a **Developer** with a strong passion for building scalable and efficient s
 
 
 
-#### Where to find me
-
-[![Linkedin](https://img.shields.io/badge/-LeonardoMoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo---de--moura/)](https://www.linkedin.com/in/leonardo---de--moura/)
 
