@@ -46,6 +46,7 @@ I am a **Developer** with a strong passion for building scalable and efficient s
 <br/>
 
 [![card](https://github-readme-stats.vercel.app/api?username=Leonardo-de-Moura&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Leonardo-de-Moura](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-de-Moura&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
