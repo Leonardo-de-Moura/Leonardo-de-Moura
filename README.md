@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-I am a **Developer** with a strong passion for building scalable and efficient systems.
+I am a **Developer** with a strong passion for building scalable and efficient systems. 
 
 ## My Skills
 
