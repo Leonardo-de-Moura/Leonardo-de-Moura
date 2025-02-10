@@ -6,7 +6,7 @@ sou um desenvolvedor backend apaixonado por desenvolvimento de sistemas escaláv
 ## 🚀 Minhas Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,express,flask,python,sqlite,git,github,linux,postman,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,express,react,vite,flask,python,sqlite,mongodb,git,github,linux,postman,vscode,)](https://skillicons.dev)
 
 ## ⭐ GitHub Stats
 
