@@ -1,55 +1,20 @@
-# About Me
+## 💜 Olá, meu nome é Leonardo!
 
-Hi there! 👋
-
-I am a **Developer** with a strong passion for building scalable and efficient systems.
-
-## My Skills
-
-**system**
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
- 
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+sou um desenvolvedor backend apaixonado por desenvolvimento de sistemas escaláveis e uteis.
 
 
-**Aplication and data**
+## 🚀 Minhas Skills
 
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
 
+---
 
+## ⭐ GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonardo-de-Moura&show_icons=true)
 
-**DevOps**
-
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-**Dev Tools**
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-100000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-<br/>
-
-[![card](https://github-readme-stats.vercel.app/api?username=Leonardo-de-Moura&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Leonardo-de-Moura](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-de-Moura&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-de-Moura&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
