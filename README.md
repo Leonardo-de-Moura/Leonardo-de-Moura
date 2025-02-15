@@ -1,6 +1,6 @@
 ## Olá, meu nome é Leonardo!
 
-sou um desenvolvedor backend apaixonado por desenvolvimento de sistemas escaláveis e uteis.
+sou um desenvolvedor full-stack junior apaixonado por desenvolvimento de sistemas e interfaces escaláveis e uteis.
 
 
 ## 🚀 Minhas Skills
