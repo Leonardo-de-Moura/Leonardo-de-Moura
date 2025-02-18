@@ -6,7 +6,7 @@ sou um desenvolvedor front-end apaixonado por desenvolvimento de sistemas e inte
 ## 🚀 Minhas Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,vite,python,sqlite,git,github,linux,postman,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,express,react,vite,python,sqlite,git,github,linux,postman,vscode,)](https://skillicons.dev)
 
 ## ⭐ GitHub Stats
 
