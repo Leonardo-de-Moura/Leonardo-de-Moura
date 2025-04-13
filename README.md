@@ -1,6 +1,6 @@
 ## Olá, meu nome é Leonardo!
 
-sou um desenvolvedor front-end apaixonado por desenvolvimento de sistemas e interfaces escaláveis e uteis.
+sou um desenvolvedor back-end apaixonado por desenvolvimento de sistemas e interfaces escaláveis e uteis.
 
 
 ## 🚀 Minhas Skills
