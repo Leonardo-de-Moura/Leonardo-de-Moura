@@ -1,12 +1,11 @@
 ## Olá, meu nome é Leonardo!
 
-sou um desenvolvedor front-end apaixonado por desenvolvimento de sistemas e interfaces escaláveis e uteis.
+sou um desenvolvedor apaixonado por desenvolvimento de sistemas e interfaces escaláveis e uteis.
 
 
 ## 🚀 Minhas Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,figma,react,vite,python,sqlite,git,github,linux,postman,vscode,)](https://skillicons.dev)
 
 ## ⭐ GitHub Stats
 
