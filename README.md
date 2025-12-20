@@ -28,7 +28,7 @@
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Leonardo-de-Moura&show_icons=true&theme=vision-friendly-dark&hide_border=true">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-deMoura&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark&hide_border=true">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-de-Moura&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark&hide_border=true">
 </div>
  
 <br>
