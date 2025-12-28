@@ -40,12 +40,12 @@
 <div align="center">
   <img 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=leonardo-de-moura&show_icons=true&theme=vision-friendly-dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Leonardo-de-Moura&show_icons=true&theme=vision-friendly-dark&hide_border=true"
     alt="GitHub Stats"
   />
   <img 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-de-moura&layout=compact&theme=vision-friendly-dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-de-Moura&layout=compact&theme=vision-friendly-dark&hide_border=true"
     alt="Top Languages"
   />
 </div>
