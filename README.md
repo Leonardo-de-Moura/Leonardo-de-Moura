@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=js,html,css,nodejs,ts,react,c,python" 
+      src="https://skillicons.dev/icons?i=js,html,css,nodejs,ts,react,c,python,figma" 
       alt="Frontend Stack"
     />
   </a>
