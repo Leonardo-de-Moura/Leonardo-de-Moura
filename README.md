@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=sqlite,vscode,mysql,postman" 
+      src="https://skillicons.dev/icons?i=sql,vscode,mysql,postman" 
       alt="Tools Stack"
     />
   </a>
