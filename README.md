@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  A FrontEnd JS Developer with skills of CleanCode.
+  A Developer with skills of CleanCode.
 </p>
 
 ---
