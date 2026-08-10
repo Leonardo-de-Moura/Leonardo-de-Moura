@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  A Developer with skills of CleanCode.
+  A BackEnd Developer.
 </p>
 
 ---
