@@ -26,13 +26,21 @@
   </a>
 </p>
 
-<br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=sql,vscode,mysql,postman" 
-      alt="Tools Stack"
-    />
-  </a>
-</p>
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-de-Moura&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
 
