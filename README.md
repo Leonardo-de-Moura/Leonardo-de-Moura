@@ -30,7 +30,7 @@
 ### OS and IDE
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=windows,linux" />
   </a>
 </p>
 
