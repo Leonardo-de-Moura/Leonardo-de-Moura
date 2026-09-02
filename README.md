@@ -14,7 +14,7 @@
 ### Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwindcss,dotnet," />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwindcss,dotnet" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 ### DevOps and Infraestructure
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,cloudflare,docker,aws,azure,git,githubactions" />
+    <img src="https://skillicons.dev/icons?i=firebase,insomnia,docker,git" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@
     </td>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=Leonardo-de-Mourar&theme=algolia&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=4&locale=pt-br" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=Leonardo-de-Moura&theme=algolia&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=4&locale=pt-br" />
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=Leonardo-de-Moura&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br" alt="" align="center" width="100%"/>
       </picture>
     </td>
