@@ -23,7 +23,7 @@
 ### DevOps and Infraestructure
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,insomnia,docker,git" />
+    <img src="https://skillicons.dev/icons?i=firebase,postman,docker,git" />
   </a>
 </p>
 
