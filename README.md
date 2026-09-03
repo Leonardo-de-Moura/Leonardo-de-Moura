@@ -3,7 +3,7 @@
 <p>
 
 <p align="center" text-align="center" width="100px">
-   Hey My name is Leonardo Moura and i'm a fullstack developer
+   Hey My name is Leonardo Moura and i'm BackEnd/Mobile developer
 </p>
 
 
